@@ -1,0 +1,25 @@
+.storiescustomer h2{
+    text-align: center;
+    width: 100%;
+}
+
+
+.storiescustcontainer{
+    /* border: 1px solid black; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.storiescustcontainer >div{
+    border: 1px solid rgba(0, 0, 0, 0.414);
+    width: 350px;
+    height: auto;
+    margin: 10px ;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 4px 2px 3px #0004;
+    padding: 10px 20px;
+    background-color: rgba(240, 248, 255, 0.497);
+}

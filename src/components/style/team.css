@@ -1,0 +1,27 @@
+.teamcontainer {
+  width: 100%;
+  padding-top: 100px;
+  background: transparent;
+  background-color: rgb(89, 97, 97);
+  background-image: url("https://us.123rf.com/450wm/flynt/flynt1603/flynt160300003/54427787-planning-risk-and-team-strategy-in-business-businessman-gambling-placing-wooden-block-on-a-tower.jpg");
+  background-repeat: no-repeat;
+  height: 130vh;
+}
+.teamcontainer image{
+    width: 100%;
+}
+
+.teamheader{
+    padding: 70px 0;
+    text-align: center;
+}
+.teamheader h3{
+ font-size: 44px;
+  color: blue;
+ 
+}
+.teamheader p{
+    font-size: var(--para-24);
+    margin: 40px 0;
+ 
+}

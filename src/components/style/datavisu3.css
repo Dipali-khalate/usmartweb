@@ -1,0 +1,29 @@
+.center-row {
+    display: flex;
+    flex-direction: column;
+  justify-items: center;
+   justify-content: right;
+   text-align: center;
+   padding: 20px 0;
+  
+   /* color: red; */
+}
+
+.center-row p{
+    font-size: 20px;
+    color: #444;
+}
+
+.fbox-wide{
+    padding: 30px 30px;
+}
+.fbox-txt .fontchng{
+    font-weight: bold;
+    color: #444;
+}
+
+.fbox-txt .parafont{
+ font-family: sans-serif;
+ font-size: 20px;
+ color: #444;
+}
